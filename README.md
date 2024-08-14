@@ -6,7 +6,7 @@ identify-artisanal-integer
 
 <!--#echo json="package.json" key="description" -->
 Identify whether an artisanal integer is from Mission Integers, Brooklyn
-Integers or London Artisanal Integers.
+Integers or London Integers.
 <!--/#echo -->
 
 
