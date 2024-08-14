@@ -1,0 +1,47 @@
+{ "name": "identify-artisanal-integer",
+  "version": "1.0.37112886",
+  "description": "Identify whether an artisanal integer is from Mission Integers, Brooklyn Integers or London Artisanal Integers.",
+  "keywords": [
+    "artisanal integer",
+    "artisanal integers",
+    "brooklyn integer",
+    "brooklyn integers",
+    "london artisanal integer",
+    "london artisanal integers",
+    "london integer",
+    "london integers",
+    "mission integer",
+    "mission integers"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/identify-artisanal-integer-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/identify-artisanal-integer-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/identify-artisanal-integer-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+  "scripts": { "test": "elp && nodemjs test/all.mjs" },
+  "directories": { "test": "test" },
+  "eslintConfig": { "extends": "nodejs-pmb" },
+
+  "dependencies": {},
+  "devDependencies": {
+    "equal-pmb": "^0.1.28",
+    "eslint-config-nodejs-pmb": "^0.3.6",
+    "eslint-plugin-json-light-pmb": "^1.0.7",
+    "eslint-plugin-n": "^15.2.4",
+    "eslint-pretty-pmb": "^1.0.5",
+    "nodemjs": "^0.1.15",
+    "p-fatal": "^0.1.5",
+    "usnam-pmb": "^0.2.5"
+  },
+
+
+  "engines": { "npm": ">=7.0.0", "node": ">=16.0.0" }
+}
