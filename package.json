@@ -1,7 +1,9 @@
 { "name": "identify-artisanal-integer",
-  "version": "1.0.37112886",
+  "version": "1.0.40278087",
   "description": "Identify whether an artisanal integer is from Mission Integers, Brooklyn Integers or London Integers.",
   "keywords": [
+    "artisan integer",
+    "artisan integers",
     "artisanal integer",
     "artisanal integers",
     "brooklyn integer",
